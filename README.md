@@ -1,2 +1,2 @@
 # tp-forkitas
-Conor mC gregor
+Canard mC gregor
